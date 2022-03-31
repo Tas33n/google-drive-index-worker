@@ -1,1 +1,1 @@
-document.getElementById('footer').innerHTML = '에셜룬의 YouTube Vanced 미러 서버 | <a href="https://esherloon.com/">esherloon.com</a>';
+document.getElementById('footer').innerHTML = 'YouTube Vanced mirror by Lamb3rt | <a href="https://t.me/lamb3rt">@Lamb3rt</a>';
