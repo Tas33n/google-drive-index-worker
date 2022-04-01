@@ -4,7 +4,10 @@
     background-position: center;
     background-size: cover;
     padding: 1em;
-    text-shadow: 4px 2px 8px #0008fd;
+    text-shadow: -2px 2px 6px #3e00fd;
+}
+
+
 }
 
 .ui.inverted.center.aligned.header {
